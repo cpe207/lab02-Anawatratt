@@ -1,0 +1,165 @@
+css * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: #262626;
+  padding: 20px;
+}
+
+build ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+build li {
+  margin: 0 100px;
+}
+
+build a {
+  color: #fff;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.upperhome {
+  background-image: url(IMAGE/rubiks-cube-digital-art-wallpaper.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  height: 700%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.upperhome h1 {
+  font-size: 4rem;
+  margin-top: 150px;
+}
+
+.upperhome h2 {
+  font-size: 2.5rem;
+  margin-bottom: 150px;
+}
+
+.downhome {
+  background-image: url(IMAGE/AR.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  height: 600%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.downhome h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  margin-right: 1200px;
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+.downhome h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  margin-right: 1300px;
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+.downhome h3 {
+  font-size: 1.75rem;
+  margin-bottom: 40px;
+  margin-right: 1200px;
+  margin-left: auto;
+  font-style: italic;
+  color: rgb(255, 255, 255);
+}
+
+.downhome h4 {
+  font-size: 1.75rem;
+  margin-bottom: 40px;
+  margin-right: 900px;
+  margin-left: auto;
+  font-style: italic;
+  color: rgb(255, 255, 255);
+}
+
+.Exp {
+  background-image: url(IMAGE/headphones-yellow-background-music-black-wallpaper.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Exp h1 {
+  font-size: 4rem;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: 1100px;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+
+.Exp h2 {
+  font-size: 3rem;
+  font-style: italic;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  color: rgb(0, 0, 0);
+}
+
+.Contact {
+  background-image: url(IMAGE/contact-us-background.webp);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Contact h1 {
+  font-size: 4rem;
+  margin-top: 50px;
+  margin-right: 1100px;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+
+.Contact h2 {
+  font-size: 3rem;
+  font-style: italic;
+  margin-bottom: auto;
+  margin-right: 800px;
+  color: rgb(0, 0, 0);
+}
+
+.Contact a {
+  font-size: 3rem;
+  font-style: italic;
+  margin-bottom: auto;
+  margin-right: 1000px;
+  color: rgb(0, 0, 0);
+}
